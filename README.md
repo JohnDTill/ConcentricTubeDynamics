@@ -15,5 +15,4 @@ The example uses a finite difference solution to simulate a snapping bifurcation
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-<br/>
 ![MEDlab + REACH lab ♡](LabLogos.png)
